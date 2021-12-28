@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "305699818763",
+    "firebase_url": "https://finalproject-ac332-default-rtdb.firebaseio.com",
+    "project_id": "finalproject-ac332",
+    "storage_bucket": "finalproject-ac332.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305699818763:android:6ed6f741a07e727d95e60e",
+        "android_client_info": {
+          "package_name": "com.example.parkpal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305699818763-m9oiq6lfdlt3n422t9s2a76gk073qud1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCnn5-mr4uQkKBWqRvmTnNAxISyIkemWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305699818763-m9oiq6lfdlt3n422t9s2a76gk073qud1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305699818763:android:2ff52a0215cebf4d95e60e",
+        "android_client_info": {
+          "package_name": "com.najah.parkpal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305699818763-m9oiq6lfdlt3n422t9s2a76gk073qud1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCnn5-mr4uQkKBWqRvmTnNAxISyIkemWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305699818763-m9oiq6lfdlt3n422t9s2a76gk073qud1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
